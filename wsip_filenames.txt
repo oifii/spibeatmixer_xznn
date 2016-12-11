@@ -1,0 +1,11 @@
+D:\oifii-org\httpdocs\ha-org\had\dj-oifii\xznnspi\sample\fbm_3bars.wav
+D:\oifii-org\httpdocs\ha-org\had\dj-oifii\xznnspi\sample\fbm_4bars.wav
+D:\oifii-org\httpdocs\ha-org\had\dj-oifii\xznnspi\sample\fbm-claves_3bars.wav
+D:\oifii-org\httpdocs\ha-org\had\dj-oifii\xznnspi\sample\fbm-hh_2bars.wav
+D:\oifii-org\httpdocs\ha-org\had\dj-oifii\xznnspi\sample\fbm-low_1beat.wav
+D:\oifii-org\httpdocs\ha-org\had\dj-oifii\xznnspi\sample\fbm-low_2bars.wav
+D:\oifii-org\httpdocs\ha-org\had\dj-oifii\xznnspi\sample\fbm-off_1bar.wav
+D:\oifii-org\httpdocs\ha-org\had\dj-oifii\xznnspi\sample\fbm-snare_1bar.wav
+D:\oifii-org\httpdocs\ha-org\had\dj-oifii\xznnspi\sample\Jawa_4bars_126-58bpm.wav
+D:\oifii-org\httpdocs\ha-org\had\dj-oifii\xznnspi\sample\Jawa_basic.wav
+D:\oifii-org\httpdocs\ha-org\had\dj-oifii\xznnspi\sample\minimal-deep-electro-hous-techno_bass-drum.wav
